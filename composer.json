@@ -1,0 +1,24 @@
+{
+    "name": "noplanman/complayser",
+    "type": "project",
+    "description": "Playground for composer/packagist",
+    "keywords": [
+        "composer",
+        "playground",
+        "testing"
+    ],
+    "homepage": "https://github.com/noplanman/complayser",
+    "license": "GPL-3.0",
+    "support": {
+        "issues": "https://github.com/noplanman/complayser/issues",
+        "source": "https://github.com/noplanman/complayser"
+    },
+    "authors": [
+        {
+            "name": "Armando Lüscher",
+            "email": "armando@noplanman.ch",
+            "homepage": "https://noplanman.ch",
+            "role": "Developer"
+        }
+    ]
+}
