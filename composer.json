@@ -20,5 +20,8 @@
             "homepage": "https://noplanman.ch",
             "role": "Developer"
         }
-    ]
+    ],
+    "scripts": {
+        "post-update-cmd": "php post-update.php"
+    }
 }
